@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958188179535",
+    "project_id": "cloudimagetracking",
+    "storage_bucket": "cloudimagetracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958188179535:android:5e3adfd47a1fa9b6005a3a",
+        "android_client_info": {
+          "package_name": "com.example.tracking_image_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZmvL2DQT6BZQd5dg5RjkhngW9srDG9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
