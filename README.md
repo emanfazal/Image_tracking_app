@@ -1,4 +1,4 @@
-# tracking_image_location
+# image_tracking_app
 
 A new Flutter project.
 
